@@ -1,6 +1,6 @@
 practica01_web.  
 Estudiante: Xavier Ochoa  
-Link GitHuPages:  
+Link GitHuPages:  https://xavier-ochoa.github.io/AW-Laboratorio1/  
 Link Netlify: https://xavierochoa.netlify.app/ 
 
 
